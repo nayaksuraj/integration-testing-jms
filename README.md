@@ -8,3 +8,6 @@ mvn spring-boot:run
 mvn test
 
 ```
+
+### 2. Start ActiveMq Server 
+To start ActiveMq server use the provided `startActiveMQ.shh`. 
